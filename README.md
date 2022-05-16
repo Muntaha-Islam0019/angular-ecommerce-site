@@ -1,5 +1,3 @@
-# angular-vmvzzp
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-vmvzzp)
+# angular-ecommerce-site
 
 A basic e-commerce site made with Angular.
